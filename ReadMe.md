@@ -12,7 +12,7 @@ Although the design is not fully original — as I took inspiration from existin
 
 You can view the live preview here:  
 
-👉 [Live Demo]([https://username.github.io/portfolio/](https://felixjackquinkwokkenzi.github.io/Responsive-Personal-Portfolio/))
+👉 [Live Demo](https://felixjackquinkwokkenzi.github.io/Responsive-Personal-Portfolio/)
 
 
 
