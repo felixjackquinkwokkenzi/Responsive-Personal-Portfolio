@@ -10,6 +10,10 @@ The goal of this project is to practice the fundamentals of web development whil
 
 Although the design is not fully original — as I took inspiration from existing templates and adapted them with my own code — this project represents an important step in my learning journey. I am aware that it still has many limitations, but I see it as a starting point to grow and improve.
 
+You can view the live preview here:  
+
+👉 [Live Demo]([https://username.github.io/portfolio/](https://felixjackquinkwokkenzi.github.io/Responsive-Personal-Portfolio/))
+
 
 
 ---
