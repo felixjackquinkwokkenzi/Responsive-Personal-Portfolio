@@ -1,4 +1,4 @@
-\###Personal Portfolio (First Project)
+#Personal Portfolio (First Project)
 
 
 
@@ -20,7 +20,7 @@ You can view the live preview here:
 
 
 
-\### 🚀 Features
+# 🚀 Features
 
 \- Simple and clean layout
 
@@ -36,7 +36,7 @@ You can view the live preview here:
 
 
 
-\### 🛠️ Built With
+# 🛠️ Built With
 
 \- HTML5  
 
@@ -48,7 +48,7 @@ You can view the live preview here:
 
 
 
-\### 📈 Future Improvements
+# 📈 Future Improvements
 
 \- Enhance responsiveness across different devices
 
@@ -62,7 +62,7 @@ You can view the live preview here:
 
 
 
-\### 📬 Contact
+# 📬 Contact
 
 At this stage, I don’t provide direct contact information yet, but I am open to learning, feedback, and collaboration.  
 
@@ -74,7 +74,7 @@ This portfolio is just the beginning, and I look forward to expanding both my pr
 
 
 
-\### 🌱 Status
+# 🌱 Status
 
 Learning in progress — this project is part of my journey to become better in web development.
 
